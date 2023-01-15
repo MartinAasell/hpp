@@ -1,17 +1,16 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-
-void swap(int *xp, int *yp){
-    int temp=*xp;
-    *xp=*yp;
-    *yp=temp;
+char *readLine(){
+    char *line = NULL;
+    size_t size=0;
+    getline(&line, &size, stdin);
+    printf("%p", line);
+    return line;
 }
 
 
 int main(){
-    int x=1, y=2;
-    swap(&x, &y);
-    printf("x : %d\n", x);   // will print 2
-    printf("y : %d\n", y);   // will print 1
+    readLine();
     return 0;
 }
