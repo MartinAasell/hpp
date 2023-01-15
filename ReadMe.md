@@ -1,2 +1,2 @@
 # High Performance Programming (HPP) 
-## Given at Uppsala University
+This is a repository for the course "1TD062" Given at Uppsala University spring 2023.
