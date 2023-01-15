@@ -5,7 +5,6 @@ char *readLine(){
     char *line = NULL;
     size_t size=0;
     getline(&line, &size, stdin);
-    printf("%p", line);
     return line;
 }
 
