@@ -1,2 +1,2 @@
 # High Performance Programming (HPP) 
-Given at Uppsala University
+## Given at Uppsala University
