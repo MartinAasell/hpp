@@ -1,17 +1,18 @@
 # High Performance Programming (HPP) 
 This is a repository for the course "1TD062" Given at Uppsala University spring 2023.
 
-## Con
+## Contents
 
-1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
+1. [ Net Lessons. ](#netless)
+2. [ Labs. ](#Labs)
 
-<a name="desc"></a>
-## 1. Description
+<a name="netless"></a>
+## 1. Netlessons
 
-sometext
+This is some basic introduction to C programming. (http://www.it.uu.se/edu/course/homepage/hpp/c/index.html) <br/>
 
-<a name="usage"></a>
-## 2. Usage tips
 
-sometext
+
+<a name="Labs"></a>
+## 2. Labs
+These are the labs for the course.
